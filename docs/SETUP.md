@@ -1,8 +1,10 @@
 Setup
+----------
 
-notice : for good OPSEC don t use your main acc
+notice : for good OPSEC don t use main acc
 
 Discord Part:
+------------
 
 1-first enable developer mode via settings:
 ![alt text](../images/discord-developer-mode-2.png)
@@ -13,15 +15,18 @@ or
 https://youtu.be/Oy5HGvrxM4o?feature=shared
 
 
-3-then create a random chat channel (can be any chat channel on your sever),right click the channel and copy id 
+3-create a random chat channel (can be any chat channel on your sever),right click the channel and copy id 
 ![alt text](../images/discord-channel-id.png)
 
-4-then create a webhook for that same channel if you dont know how see:
+4-create a webhook for that same channel if you dont know how see:
+![alt text](<../images/Screen Shot 2020-12-15 at 4.51.38 PM.png>)
+![alt text](../images/vp2d-howto-02-1200x600-1.jpg)
+more reference:
 https://progr.interplanety.org/en/how-to-get-the-discord-channel-webhook-url/
-or
-https://youtu.be/fKksxz2Gdnc?feature=shared
+
 
 Telegram Part:
+----------
 
 1-create 2 telegram bots and get their tokens if you dont know how see : 
 https://www.youtube.com/watch?v=F2-RuyIroFw&ab_channel=TheSchoolofDigitalMarketing
@@ -37,7 +42,7 @@ go to your created channel ,and copy the id should look like this :
 
 be sure to add -100 at the start it while inputing to telecord ,example: -1002544544878454 (just a random id)
 
-thats it you r done , now you should have 1 Discord bot token ,1 Discord channelid  ,1discord webhook,2 telegram bot tokens and a telegram channelid 
+thats it you r done , now you should have 1 Discord bot token ,1 Discord channelid  ,1discord webhook,2 telegram bot tokens and a telegram channelid (-100XXXXXXXXXXX)
 
-
+when you run Telecord for first time it will prompt you for them ,to add and preserve other profiles orsettings , just rename the config.yaml and run telecord once more
 
