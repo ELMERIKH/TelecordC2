@@ -19,8 +19,8 @@ https://youtu.be/Oy5HGvrxM4o?feature=shared
 ![alt text](../images/discord-channel-id.png)
 
 4-create a webhook for that same channel if you dont know how see:
-![alt text](<../images/Screen Shot 2020-12-15 at 4.51.38 PM.png>)
-![alt text](../images/vp2d-howto-02-1200x600-1.jpg)
+<img src="../images/Screen Shot 2020-12-15 at 4.51.38 PM.png" alt="alt text" width="200"/>
+<img src="../images/vp2d-howto-02-1200x600-1.jpg" alt="alt text" width="200"/>
 more reference:
 https://progr.interplanety.org/en/how-to-get-the-discord-channel-webhook-url/
 
