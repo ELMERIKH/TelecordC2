@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Show </title>
+    <style>
+        body {
+            font-family: 'Courier New', Courier, monospace; /* Mimics typical cmd shell font */
+            margin: 20px;
+            background: linear-gradient(270deg, #000, #0a0c0b);
+            background-size: 400% 400%;
+           
+            color: #31a50e; /* Gold text color for the whole body */
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        nav a {
+            color: rgb(21, 255, 0);
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <nav>
+        
+        <a href="/TELECORD">TELECORD</a>
+    </nav>
+ 
+    <img id="screenImage" src="screenshot.jpg" alt="Screen Share Image" style="width: 80%; height: 80%; object-fit: contain;display:flex;margin-left: 150px;">
+    <script>
+        setInterval(function() {
+            var screenImage = document.getElementById("screenImage");
+            screenImage.src = screenImage.src + "?" + new Date().getTime(); // Add a timestamp to force the browser to reload the image
+        }, 500); // Refresh every 1 second
+    </script>
+</body>
+</html>
