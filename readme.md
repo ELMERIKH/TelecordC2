@@ -40,7 +40,7 @@ go mod tidy
 
 go run Telecord.go 
 
-You will get promted to enter 2 telegram bot tokens,1 telegram channel id ,1 Discord bot token ,a discord channel id and its webhook id
+You will get prompted to enter 2 telegram bot tokens,1 telegram channel id ,1 Discord bot token ,a discord channel id and its webhook id
 
 once done a config.yaml file is created with your settings ,if you want to change something either edit it or delete it and run "go run Telecord.go " another time 
 
