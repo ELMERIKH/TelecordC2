@@ -34,7 +34,7 @@ telegram acc
 Setup
 ----------
 
-git clone https://github.com/ELMERIKH/Telecord
+git clone https://github.com/ELMERIKH/TelecordC2
 
 go mod tidy
 
