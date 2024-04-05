@@ -31,13 +31,16 @@ Telegram Part:
 1-create 2 telegram bots and get their tokens if you dont know how see : 
 https://www.youtube.com/watch?v=F2-RuyIroFw&ab_channel=TheSchoolofDigitalMarketing
 
-2-create a telegram channel and add the 2 bot to it as administrators:
+2-create a private telegram channel and add the 2 bot to it as administrators:
 To create your own channel, open the “New Message” menu on Telegram and choose “New Channel”. Newly created channels start as private – but you can edit their profile to make them public.
 
 then the web version of telegram :https://web.telegram.org
 
 go to your created channel ,and copy the id should look like this :
+
 ![alt text](<../images/2024-04-05 04_20_15-Telegram Web.png>)
+
+https://axibase.com/docs/atsd/rule-engine/notifications/telegram-get-chat-id.html
 
 
 be sure to add -100 at the start it while inputing to telecord ,example: -1002544544878454 (just a random id)
