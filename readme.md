@@ -21,7 +21,7 @@ since telegram does not allow multipleagents to run at the same time. by default
 
 list of commands below:
 
-![alt text](<images/2024-04-04 17_11_51-C__Windows_System32_cmd.exe - go  run cc.go -theme yellow.png>)
+![alt text](<images/2024-04-05 04_58_22-telecord.go - telegramc2 - Visual Studio Code.png>)
 
 
 Prerequisite
