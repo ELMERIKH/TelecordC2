@@ -23,7 +23,7 @@ list of commands below:
 
 ![alt text](<images/2024-04-05 04_58_22-telecord.go - telegramc2 - Visual Studio Code.png>)
 
-see [Setup Guide](docs/USECASE.md)
+see [USECASE Guide](docs/USECASE.md)
 
 
 Prerequisite
