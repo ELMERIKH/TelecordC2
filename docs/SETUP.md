@@ -5,15 +5,20 @@ notice : for good OPSEC don t use your main acc
 Discord Part:
 
 1-first enable developer mode via settings:
+![alt text](../images/discord-developer-mode-2.png)
 
 2-create a Discord server and add a bot to the server if you don t know how see:
-
-https://youtu.be/Oy5HGvrxM4o?feature=shared
 https://opensource.com/article/22/10/matrix-discord-bot
+or
+https://youtu.be/Oy5HGvrxM4o?feature=shared
+
 
 3-then create a random chat channel (can be any chat channel on your sever),right click the channel and copy id 
+![alt text](../images/discord-channel-id.png)
 
 4-then create a webhook for that same channel if you dont know how see:
+https://progr.interplanety.org/en/how-to-get-the-discord-channel-webhook-url/
+or
 https://youtu.be/fKksxz2Gdnc?feature=shared
 
 Telegram Part:
@@ -27,6 +32,7 @@ To create your own channel, open the “New Message” menu on Telegram and choo
 then the web version of telegram :https://web.telegram.org
 
 go to your created channel ,and copy the id should look like this :
+![alt text](<../images/2024-04-05 04_20_15-Telegram Web.png>)
 
 
 be sure to add -100 at the start it while inputing to telecord ,example: -1002544544878454 (just a random id)
