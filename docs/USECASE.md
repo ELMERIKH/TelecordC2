@@ -80,7 +80,24 @@ will open an html file with your default browser, by default any screenshot take
 
 ![alt text](<../images/2024-04-04 15_44_27-.png>)
 
+<<<<<<< HEAD
 exit
 -----------
 
 exit telecord
+=======
+/downlaod | /upload
+-----------------
+download and upload files viathe telgram api 
+
+examples:
+
+/download kk.txt = download kk.txt to the server
+
+/upload kk.txt =upload kk.txt from local directory to working directory of the agent 
+
+exit
+-----------
+
+exit telecord
+>>>>>>> 0533ea828ac212299aed5312adfea60459dafe1d
