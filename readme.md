@@ -36,6 +36,10 @@ telegram acc
 Setup
 ----------
 
+go install github.com/ELMERIKH/telecordc2@latest
+
+OR
+
 git clone https://github.com/ELMERIKH/TelecordC2
 
 go mod tidy
