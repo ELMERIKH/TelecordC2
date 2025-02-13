@@ -1,4 +1,5 @@
-module Telecord.go
+module github.com/ELMERIKH/telecordc2
+
 
 go 1.21.0
 
